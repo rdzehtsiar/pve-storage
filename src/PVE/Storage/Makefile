@@ -12,9 +12,10 @@ SOURCES= \
 	ZFSPoolPlugin.pm \
 	ZFSPlugin.pm \
 	PBSPlugin.pm \
-	BTRFSPlugin.pm \
-	LvmThinPlugin.pm \
-	ESXiPlugin.pm
+        BTRFSPlugin.pm \
+        LvmThinPlugin.pm \
+       ESXiPlugin.pm \
+       Custom/DemoPlugin.pm
 
 .PHONY: install
 install:
