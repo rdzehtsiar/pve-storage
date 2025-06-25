@@ -1,4 +1,4 @@
-SOURCES = Base.pm
+SOURCES = Base.pm Demo.pm
 
 .PHONY: install
 install:
